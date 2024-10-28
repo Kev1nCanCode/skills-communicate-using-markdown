@@ -6,3 +6,7 @@ Short and meaningful commit message that describes nothing scince I changed noth
 ```java
 System.out.println("Hello World!");
 ```
+## Task list
+- [ ] Turn on GitHubPages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
